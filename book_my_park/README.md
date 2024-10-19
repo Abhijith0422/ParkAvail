@@ -1,16 +1,2 @@
-# book_my_park
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+The ParkAvail app is designed to revolutionize the process of finding parking spots in real-time, significantly reducing stress and enhancing efficiency. This innovative platform, accessible via both mobile app and website, offers key features such as real-time parking availability, location-based search using GPS, detailed parking information (including name, location, price, and availability status), and a user-friendly interface. It targets commuters, shoppers, event-goers, and tourists, providing seamless parking solutions. Future enhancements may include reservation systems and smart notifications, ensuring a comprehensive and user-centric parking experience.
